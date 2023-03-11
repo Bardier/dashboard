@@ -2,6 +2,7 @@
   "name": "dashboard",
   "version": "0.1.0",
   "private": true,
+  "homepage": "http://bardier.github.io/dashboard",
   "dependencies": {
     "@craco/craco": "^7.0.0",
     "@testing-library/jest-dom": "^5.16.5",
@@ -16,6 +17,7 @@
     "@types/styled-components": "^5.1.26",
     "@types/yup": "^0.32.0",
     "formik": "^2.2.9",
+    "gh-pages": "^5.0.0",
     "react": "^18.2.0",
     "react-custom-scrollbars-2": "^4.5.0",
     "react-dom": "^18.2.0",
@@ -32,7 +34,8 @@
     "start": "craco start",
     "build": "craco build",
     "test": "craco test",
-    "eject": "craco eject"
+    "eject": "craco eject",
+    "predeploy": "npm run build"
   },
   "eslintConfig": {
     "extends": [
