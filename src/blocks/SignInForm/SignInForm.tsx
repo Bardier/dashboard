@@ -46,7 +46,7 @@ export const SignInForm: FC = () => {
         email: yup.string().email().required(),
         password: yup.string().required(),
     });
-    const initialValues: ISignInInputData = {email: 'byefar@i.ua', password: '12345'};
+    const initialValues: ISignInInputData = {email: '', password: ''};
 
     return <Formik
         initialValues={initialValues}
