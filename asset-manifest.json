@@ -1,0 +1,27 @@
+{
+  "files": {
+    "main.js": "/dashboard/static/js/main.6c34657e.js",
+    "static/media/settingService.svg": "/dashboard/static/media/settingService.b9dec2024562e4135d66445dc436b788.svg",
+    "static/media/shareService.svg": "/dashboard/static/media/shareService.1e944590a8c7d41f594e8d83c3dfa269.svg",
+    "static/media/settings.svg": "/dashboard/static/media/settings.4c0b4e3bf21515e6f948144d16ae727a.svg",
+    "static/media/wear-tear.svg": "/dashboard/static/media/wear-tear.fc6049d085070be9c00b19ef244391a3.svg",
+    "static/media/userService.svg": "/dashboard/static/media/userService.c41b2c1bf179ef33c2ed859f8b1a2f21.svg",
+    "static/media/logo.svg": "/dashboard/static/media/logo.f6fac7106f880b78f0a3741ef463b27f.svg",
+    "static/media/keyholeService.svg": "/dashboard/static/media/keyholeService.3669d1be9a288a68974b87029b63ce38.svg",
+    "static/media/product.svg": "/dashboard/static/media/product.4fe20f191cd8c963c49400235ad0e7ba.svg",
+    "static/media/gamesService.svg": "/dashboard/static/media/gamesService.51bf5659f757a84478170f4ef1831395.svg",
+    "static/media/games.svg": "/dashboard/static/media/games.331da063ebbaf5839b7e0321e090a2c6.svg",
+    "static/media/cards.svg": "/dashboard/static/media/cards.d932bb5f0e9cb3b390328626556ff2db.svg",
+    "index.html": "/dashboard/index.html",
+    "static/media/dashboard.svg": "/dashboard/static/media/dashboard.524ff71b4efce342799b394ab6130e16.svg",
+    "static/media/info.svg": "/dashboard/static/media/info.730f6027fc863990c73586c2ef58e549.svg",
+    "static/media/user.svg": "/dashboard/static/media/user.2d91f9295a87691d440761e672e31b75.svg",
+    "static/media/action-menu.svg": "/dashboard/static/media/action-menu.f20364d4517a97f86ca1dcb989fef6d7.svg",
+    "static/media/active.svg": "/dashboard/static/media/active.3e511225959d723c148654b15457ca44.svg",
+    "static/media/arrow-down.svg": "/dashboard/static/media/arrow-down.0dc58a97f12712d4007a4c8df2e751f6.svg",
+    "main.6c34657e.js.map": "/dashboard/static/js/main.6c34657e.js.map"
+  },
+  "entrypoints": [
+    "static/js/main.6c34657e.js"
+  ]
+}
