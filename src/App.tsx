@@ -11,15 +11,15 @@ export const App: FC = () => {
         <UserContext.Provider value={{userToken, setUserToken}}>
             <GlobalStyles/>
             <Routes>
-                <Route path='/dashboard/' element={<DashboardScreen/>}/>
-                <Route path='/dashboard/sign-in' element={<SignInScreen/>}/>
-                <Route path='/dashboard/sign-up' element={<SignUpScreen/>}/>
+                <Route path='/' element={<DashboardScreen/>}/>
+                <Route path='/sign-in' element={<SignInScreen/>}/>
+                <Route path='/sign-up' element={<SignUpScreen/>}/>
 
-                <Route path='/dashboard/cards' element={<DashboardScreen/>}/>
-                <Route path='/dashboard/product' element={<DashboardScreen/>}/>
-                <Route path='/dashboard/wear-tear' element={<DashboardScreen/>}/>
-                <Route path='/dashboard/games' element={<DashboardScreen/>}/>
-                <Route path='/dashboard/settings' element={<DashboardScreen/>}/>
+                <Route path='/cards' element={<DashboardScreen/>}/>
+                <Route path='/product' element={<DashboardScreen/>}/>
+                <Route path='/wear-tear' element={<DashboardScreen/>}/>
+                <Route path='/games' element={<DashboardScreen/>}/>
+                <Route path='/settings' element={<DashboardScreen/>}/>
 
                 <Route path='*' element={<ErrorScreen/>}/>
             </Routes>
