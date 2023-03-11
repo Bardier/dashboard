@@ -15,6 +15,7 @@ export const App: FC = () => {
                 <Route path='/sign-in' element={<SignInScreen/>}/>
                 <Route path='/sign-up' element={<SignUpScreen/>}/>
 
+                <Route path='/dashboard' element={<DashboardScreen/>}/>
                 <Route path='/cards' element={<DashboardScreen/>}/>
                 <Route path='/product' element={<DashboardScreen/>}/>
                 <Route path='/wear-tear' element={<DashboardScreen/>}/>
